@@ -3,16 +3,7 @@
 
 ## Table of Contents
 
-### The Study Plan
 
-
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [Interview Prep Books](#interview-prep-books)
-- [Don't Make My Mistakes](#dont-make-my-mistakes)
-- [What you Won't See Covered](#what-you-wont-see-covered)
-- [The Daily Plan](#the-daily-plan)
-- [Coding Question Practice](#coding-question-practice)
-- [Coding Problems](#coding-problems)
 
 ### Topics of Study
 
