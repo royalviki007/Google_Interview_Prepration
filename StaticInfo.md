@@ -20,3 +20,15 @@ This is my multi-month study plan for becoming a software engineer for a large c
 * Time
 
 Note this is a study plan for **software engineering**, not web development.
+
+
+### The Study Plan
+
+
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [Interview Prep Books](#interview-prep-books)
+- [Don't Make My Mistakes](#dont-make-my-mistakes)
+- [What you Won't See Covered](#what-you-wont-see-covered)
+- [The Daily Plan](#the-daily-plan)
+- [Coding Question Practice](#coding-question-practice)
+- [Coding Problems](#coding-problems)
