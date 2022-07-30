@@ -1,5 +1,5 @@
 
-# Google Interview Prepration
+# Static Info for Google Interview Prepration.
 
 > [Amazon hiring experience](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
 > 
