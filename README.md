@@ -146,60 +146,11 @@ Note this is a study plan for **software engineering**, not web development.
 - [Computer Science Courses](#computer-science-courses)
 - [Papers](#papers)
 
----
 
-## Why use it?
 
-If you want to work as a software engineer for a large company, these are the things you have to know.
 
-If you missed out on getting a degree in computer science, like I did, this will catch you up and save four years of your life.
 
-When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, or anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it would have been terrible.
-Every data structure I had ever used was built into the language, and I didn't know how they worked
-under the hood at all. I never had to manage memory unless a process I was running would give an "out of
-memory" error, and then I'd have to find a workaround. I used a few multidimensional arrays in my life and
-thousands of associative arrays, but I never created data structures from scratch.
 
-It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
-
-## How to use it
-
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using GitHub's special markdown flavor, including tasks lists to track progress.
-  - [More about GitHub-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-### If you don't want to use git
-
-On this page, click the Code button near the top, then click "Download ZIP". Unzip the file and you can work with the text files.
-
-If you're open in a code editor that understands markdown, you'll see everything formatted nicely.
-
-![How to download the repo as a zip file](https://d3j2pkmjtin6ou.cloudfront.net/how-to-download-as-zip.png)
-
-### If you're comfortable with git
-
-Create a new branch so you can check items like this, just put an x in the brackets: [x]
-
-    Fork a branch and follow the commands below
-
-Fork the GitHub repo https://github.com/jwasham/coding-interview-university by clicking on the Fork button.
-
-Clone to your local repo:
-
-    git clone git@github.com:<your_github_username>/coding-interview-university.git
-    git checkout -b progress
-    git remote add jwasham https://github.com/jwasham/coding-interview-university
-    git fetch --all
-
-Mark all boxes with X after you completed your changes:
-
-    git add .
-    git commit -m "Marked x"
-    git rebase jwasham/main
-    git push --set-upstream origin progress
-    git push --force
 
 ## Don't feel you aren't smart enough
 
@@ -207,21 +158,9 @@ Mark all boxes with X after you completed your changes:
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
-## A Note About Video Resources
 
-Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
 
-It would be great to replace the online course resources with free and always-available public sources, 
-such as YouTube videos (preferably university lectures), so that you people can study these anytime, 
-not just when a specific online course is in session.
 
-## Choose a Programming Language
-
-You'll need to choose a programming language for the coding interviews you do, 
-but you'll also need to find a language that you can use to study computer science concepts.
-
-Preferably the language would be the same, so that you only need to be proficient in one.
 
 ### For this Study Plan
 
@@ -236,12 +175,6 @@ You may not need it, but here are some sites for learning a new language:
 - [Codeforces](https://codeforces.com/)
 
 
-
-## Books for Data Structures and Algorithms
-
-This book will form your foundation for computer science.
-
-Just choose one, in a language that you will be comfortable with. You'll be doing a lot of reading and coding.
 
 
 ### Java
@@ -260,8 +193,6 @@ Your choice:
 
 ## Interview Prep Books
 
-You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough, 
-but I bought more to give myself more practice. But I always do too much.
 
 I bought both of these. They gave me plenty of practice.
 
@@ -276,8 +207,7 @@ I bought both of these. They gave me plenty of practice.
 
 Choose one:
 
-- [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-- [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
+
 - [Elements of Programming Interviews (Java version)](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
         - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
